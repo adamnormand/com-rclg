@@ -90,7 +90,7 @@ p{margin:0 0 1em}
 .executive{background:var(--cream);padding:70px 0 80px}
 .execs{display:flex;flex-wrap:wrap;justify-content:center;gap:28px 20px;margin-top:30px}
 .exec{width:212px;background:var(--white);text-align:center;padding-bottom:14px}
-.exec img{width:100%;aspect-ratio:421/540;object-fit:cover}
+.exec img{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;object-position:50% 0}
 .exec h3{font-size:17px;margin:12px 0 2px}
 .exec span{font-size:14px}
 
