@@ -2,7 +2,7 @@
 
 Static, dependency-free version of the branch website, migrated from the WordPress multisite (`legiongaspe.ceegim.com`) on 2026-11-20.
 
-Live: https://adamnormand.github.io/com-rclg/
+Live: https://legiongaspe.ca/ (also https://adamnormand.github.io/com-rclg/)
 
 ## Files
 
